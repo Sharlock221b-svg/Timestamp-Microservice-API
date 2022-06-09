@@ -1,12 +1,13 @@
 /****** Main Styling ******/
 
 body {
+	margin-top: 50px;
 	font-family: 'Roboto', sans-serif;
 	font-size: 16px;
-	color: #222;
-	background-color: #FaFaFa;
+	color: rgb(204, 200, 200);
 	text-align: center;
 	line-height: 1.4em;
+	background-color: #222;
 }
 
 .container {
@@ -14,8 +15,13 @@ body {
 	margin-top: 40px;
 }
 
+h1{
+	padding-bottom: 30px;
+	font-size: 2.5em;
+}
+
 h3 {
-  margin-top: 30px;
+  margin-top: 50px;
 }
 
 hr {
@@ -23,14 +29,15 @@ hr {
 }
 
 .footer {
-	margin-top: 40px;
+	margin-top: 50px;
 }
 
 code {
   font-family: monospace;
-  padding: 2px;
+  padding: 6px;
   color: black;
   background-color: #fff;
+  border-radius: 4px;
 }
 
 ul {
@@ -39,8 +46,23 @@ ul {
 
 li {
   margin-bottom: 0.5em;
+  padding-bottom: 5px;
 }
 
 a {
-	color: #2574A9;
+	color: #1189DA;
+}
+a:hover{
+	color: #EEC8AF;
+	text-decoration: none;
+}
+i {
+	color: #EEC8AF;
+	font-weight: 500;
+}
+p{
+	margin-left: auto;
+	margin-right: auto;
+	width: 800px;
+	padding-bottom: 10px;
 }
