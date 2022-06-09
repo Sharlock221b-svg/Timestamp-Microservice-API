@@ -5,5 +5,5 @@
 <h3>Instructions for running in your system</h3>
 Navitage to the folder in the cli then run:
 <code>npm install</code>
-All the Dependencies as mentioned in Package.json will get installed.
+All the Dependencies as mentioned in Package.json will get installed.<br />
 For runnuing: <code>node index.js</code>
