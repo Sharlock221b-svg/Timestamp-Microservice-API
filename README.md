@@ -15,5 +15,4 @@ Will return current unix and utc timestamp
 <br />
 <code>https://timestamp-microoservice-nodejs.herokuapp.com/api/unix-value</code><br/>
 OR <code>https://timestamp-microoservice-nodejs.herokuapp.com/api/dateIN(YYYY-MM-DD)</code><br/>
-Will return unix and utc timestamp resplectivly. <br />
-<b>Response would be a json object</b>
+Will return unix and utc timestamp as a <b><i> JSON Object</i></b>.
